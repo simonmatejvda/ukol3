@@ -1,0 +1,40 @@
+{
+  "literatura": [
+    {
+      "priorita": "Základní",
+      "autor": "Wróblewski, Piotr",
+      "nazev": "Algoritmy",
+      "isbn": "80-251-0343-9 ",
+      "rokVydani": "2004",
+      "mistoVydani": "Brno",
+      "url": "http://arl.uhk.cz/arl-hk/cs/detail-hk_us_cat-m0392463-"
+    },
+    {
+      "priorita": "Základní",
+      "autor": "Mareš, M., Valla, T.",
+      "nazev": "Průvodce labyrintem algoritmů",
+      "isbn": "978-80-88168-19-5",
+      "rokVydani": "2017",
+      "mistoVydani": "Praha",
+      "url": "https://knihy.nic.cz/media/filer_public/b9/e2/b9e2bf05-bced-42dd-848e-70516f49fdbb/pruvodce_labyrintem_algoritmu.pdf"
+    },
+    {
+      "priorita": "Doporučená",
+      "autor": "Milková, E. a kol.",
+      "nazev": "Algoritmy - základní konstrukce v příkladech a jejich vizualizace",
+      "isbn": "978-80-7435-064-1",
+      "rokVydani": "2010",
+      "mistoVydani": "Hradec Králové",
+      "url": null
+    },
+    {
+      "priorita": "Doporučená",
+      "autor": "Töpfer, Pavel",
+      "nazev": "Algoritmy a programovací techniky",
+      "isbn": "978-80-7196-350-9",
+      "rokVydani": "2010",
+      "mistoVydani": "Praha",
+      "url": "http://arl.uhk.cz/arl-hk/cs/detail-hk_us_cat-0015094-"
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+[
+  {
+    "title": "Algoritmy - základní konstrukce v příkladech a jejich vizualizace",
+    "author": "Milková, E. a kol.",
+    "courseCode": "ALGDS"
+  },
+  {
+    "title": "kurz KIKM/DIMA",
+    "courseCode": "DIMA"
+  },
+  {
+    "title": "Teorie grafů a grafové algoritmy",
+    "author": "Milková, E.",
+    "courseCode": "DIMA"
+  },
+  {
+    "title": "Kapitoly z diskrétní matematiky.",
+    "author": "Matoušek, J.: Nešetřil, J.",
+    "courseCode": "DIMA"
+  },
+  {
+    "title": "Problém minimální kostry grafu.",
+    "author": "Milková, E.",
+    "courseCode": "DIMA"
+  },
+  {
+    "title": "Algoritmy",
+    "author": "Wróblewski, Piotr",
+    "courseCode": "PALG"
+  },
+  {
+    "title": "Průvodce labyrintem algoritmů",
+    "author": "Mareš, M., Valla, T.",
+    "courseCode": "PALG"
+  },
+  {
+    "title": "Algoritmy - základní konstrukce v příkladech a jejich vizualizace",
+    "author": "Milková, E. a kol.",
+    "courseCode": "PALG"
+  },
+  {
+    "title": "Algoritmy a programovací techniky",
+    "author": "Töpfer, Pavel",
+    "courseCode": "PALG"
+  },
+  {
+    "title": "The Java Tutorial",
+    "author": "Oracle",
+    "courseCode": "PRO1"
+  },
+  {
+    "title": "Učebnice jazyka Java",
+    "author": "Herout, P.",
+    "courseCode": "PRO1"
+  },
+  {
+    "title": "Java - bohatství knihoven",
+    "author": "Herout, Pavel",
+    "courseCode": "PRO1"
+  },
+  {
+    "title": "Objects first with Java",
+    "author": "Barnes, David J.",
+    "courseCode": "PRO1"
+  },
+  {
+    "title": "Java 7 - učebnice objektové architektury pro začátečníky",
+    "author": "Pecinovský, R.",
+    "courseCode": "PRO1"
+  },
+  {
+    "title": "OOP",
+    "author": "Pecinovský, Rudolf",
+    "courseCode": "PRO1"
+  },
+  {
+    "title": "Algoritmy",
+    "author": "Wróblewski, Piotr",
+    "courseCode": "UPROM"
+  },
+  {
+    "title": "Průvodce labyrintem algoritmů",
+    "author": "Mareš, M., Valla, T.",
+    "courseCode": "UPROM"
+  },
+  {
+    "title": "Algoritmy - základní konstrukce v příkladech a jejich vizualizace",
+    "author": "Milková, E. a kol.",
+    "courseCode": "UPROM"
+  }
+]

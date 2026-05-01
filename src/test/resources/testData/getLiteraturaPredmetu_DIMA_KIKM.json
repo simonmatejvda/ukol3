@@ -1,0 +1,40 @@
+{
+  "literatura": [
+    {
+      "priorita": "Základní",
+      "autor": null,
+      "nazev": "kurz KIKM/DIMA",
+      "isbn": null,
+      "rokVydani": null,
+      "mistoVydani": null,
+      "url": "oliva.uhk.cz"
+    },
+    {
+      "priorita": "Základní",
+      "autor": "Milková, E.",
+      "nazev": "Teorie grafů a grafové algoritmy",
+      "isbn": "978-80-7435-267-6",
+      "rokVydani": "2012",
+      "mistoVydani": "Hradec Králové",
+      "url": null
+    },
+    {
+      "priorita": "Doporučená",
+      "autor": "Matoušek, J.: Nešetřil, J.",
+      "nazev": "Kapitoly z diskrétní matematiky.",
+      "isbn": "978-80-246-1740-4",
+      "rokVydani": "2000",
+      "mistoVydani": "Praha",
+      "url": null
+    },
+    {
+      "priorita": "Doporučená",
+      "autor": "Milková, E.",
+      "nazev": "Problém minimální kostry grafu.",
+      "isbn": "80-7041-436-7",
+      "rokVydani": "2001",
+      "mistoVydani": "Hradec Králové",
+      "url": null
+    }
+  ]
+}

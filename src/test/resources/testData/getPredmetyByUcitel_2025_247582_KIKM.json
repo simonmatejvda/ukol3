@@ -1,0 +1,79 @@
+{
+  "predmetUcitele": [
+    {
+      "zkratka": "ALGDS",
+      "nazev": "Algoritmy a datové struktury",
+      "katedra": "KIKM",
+      "rok": "2025",
+      "garant": "NE",
+      "garantPodil": null,
+      "prednasejici": "NE",
+      "prednasejiciPodil": 100,
+      "cvicici": "ANO",
+      "cviciciPodil": 100,
+      "seminarici": "NE",
+      "seminariciPodil": 100,
+      "examinator": "NE"
+    },
+    {
+      "zkratka": "DIMA",
+      "nazev": "Diskrétní matematika",
+      "katedra": "KIKM",
+      "rok": "2025",
+      "garant": "NE",
+      "garantPodil": null,
+      "prednasejici": "NE",
+      "prednasejiciPodil": 100,
+      "cvicici": "ANO",
+      "cviciciPodil": 100,
+      "seminarici": "NE",
+      "seminariciPodil": 100,
+      "examinator": "NE"
+    },
+    {
+      "zkratka": "PALG",
+      "nazev": "Pokročilá algoritmizace",
+      "katedra": "KIKM",
+      "rok": "2025",
+      "garant": "NE",
+      "garantPodil": null,
+      "prednasejici": "NE",
+      "prednasejiciPodil": 100,
+      "cvicici": "ANO",
+      "cviciciPodil": 100,
+      "seminarici": "NE",
+      "seminariciPodil": 100,
+      "examinator": "NE"
+    },
+    {
+      "zkratka": "PRO1",
+      "nazev": "Programování I",
+      "katedra": "KIKM",
+      "rok": "2025",
+      "garant": "NE",
+      "garantPodil": null,
+      "prednasejici": "NE",
+      "prednasejiciPodil": 100,
+      "cvicici": "ANO",
+      "cviciciPodil": 100,
+      "seminarici": "NE",
+      "seminariciPodil": 100,
+      "examinator": "NE"
+    },
+    {
+      "zkratka": "UPROM",
+      "nazev": "Úvod do programování",
+      "katedra": "KIKM",
+      "rok": "2025",
+      "garant": "NE",
+      "garantPodil": null,
+      "prednasejici": "NE",
+      "prednasejiciPodil": 100,
+      "cvicici": "ANO",
+      "cviciciPodil": 100,
+      "seminarici": "NE",
+      "seminariciPodil": 100,
+      "examinator": "NE"
+    }
+  ]
+}

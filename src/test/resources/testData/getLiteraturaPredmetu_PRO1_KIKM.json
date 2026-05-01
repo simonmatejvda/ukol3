@@ -1,0 +1,58 @@
+{
+  "literatura": [
+    {
+      "priorita": "Základní",
+      "autor": "Oracle",
+      "nazev": "The Java Tutorial",
+      "isbn": null,
+      "rokVydani": null,
+      "mistoVydani": null,
+      "url": null
+    },
+    {
+      "priorita": "Základní",
+      "autor": "Herout, P.",
+      "nazev": "Učebnice jazyka Java",
+      "isbn": "978-80-7232-398-2",
+      "rokVydani": "2010",
+      "mistoVydani": "České Budějovice",
+      "url": null
+    },
+    {
+      "priorita": "Rozšiřující",
+      "autor": "Herout, Pavel",
+      "nazev": "Java - bohatství knihoven",
+      "isbn": "80-7232-209-5",
+      "rokVydani": "2003",
+      "mistoVydani": "České Budějovice",
+      "url": "http://arl.uhk.cz/arl-hk/cs/detail-hk_us_cat-m0341937-"
+    },
+    {
+      "priorita": "Rozšiřující",
+      "autor": "Barnes, David J.",
+      "nazev": "Objects first with Java",
+      "isbn": "978-0-13-283554-1",
+      "rokVydani": "2012",
+      "mistoVydani": "Boston",
+      "url": "http://arl.uhk.cz/arl-hk/cs/detail-hk_us_cat-0014580-"
+    },
+    {
+      "priorita": "Doporučená",
+      "autor": "Pecinovský, R.",
+      "nazev": "Java 7 - učebnice objektové architektury pro začátečníky",
+      "isbn": "978-80-247-3665-5",
+      "rokVydani": "2012",
+      "mistoVydani": "Praha",
+      "url": null
+    },
+    {
+      "priorita": "Doporučená",
+      "autor": "Pecinovský, Rudolf",
+      "nazev": "OOP",
+      "isbn": "978-80-251-2126-9",
+      "rokVydani": "2010",
+      "mistoVydani": "Brno",
+      "url": "http://arl.uhk.cz/arl-hk/cs/detail-hk_us_cat-0012100-"
+    }
+  ]
+}
